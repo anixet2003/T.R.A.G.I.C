@@ -1,4 +1,4 @@
-# TRAGIC - TRaffic Analysis with Generative Intelligence and Crowd simulation
+# TRAGIC - Traffic Analysis with Generative Intelligence and Crowd simulation
 
 A sophisticated crowd simulation and evacuation system that models realistic human behavior, hazard propagation, and emergency scenarios using advanced motion models and deep learning-based floorplan analysis.
 
